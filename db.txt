@@ -1,0 +1,9 @@
+User;karolina;karolina1Tl8*G3Ertpxvj0%8qpy;ADMIN
+User;kasia;kasia1Tl8*G3Ertpxvj0%8qpy;USER
+User;lala;lala1Tl8*G3Ertpxvj0%8qpy;USER
+User;admin;admin1Tl8*G3Ertpxvj0%8qpy;ADMIN
+Product;1;Bułka;6;2.5
+Product;2;Baton;2;5.2
+Product;3;Guma do żucia;1;6.0
+User;admin;admin1Tl8*G3Ertpxvj0%8qpy;ADMIN
+User;popo;popo1Tl8*G3Ertpxvj0%8qpy;USER

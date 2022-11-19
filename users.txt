@@ -1,0 +1,4 @@
+User;karolina;karolina1Tl8*G3Ertpxvj0%8qpy;ADMIN
+User;kasia;kasia1Tl8*G3Ertpxvj0%8qpy;USER
+User;lala;lala1Tl8*G3Ertpxvj0%8qpy;USER
+User;admin;admin1Tl8*G3Ertpxvj0%8qpy;ADMIN
